@@ -42,6 +42,7 @@ class HomeController extends Controller
 
 
 			return response()->json(['success'=>'Added new records.']);
+			
         }
 
 
